@@ -1,0 +1,2 @@
+# Wordle-made-on-python
+I made this beta in 4 days. All the content inside can be taken and used without indicating my authorship. You can emphasize for yourself how to implement Wordle using Python.
